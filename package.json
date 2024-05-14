@@ -1,6 +1,9 @@
 {
   "name": "react-in-rails-demo",
   "private": true,
+  "engines": {
+    "node": "=16.20.2"
+  },
   "dependencies": {
     "@babel/preset-react": "^7.24.1",
     "@rails/actioncable": "^6.0.0",
